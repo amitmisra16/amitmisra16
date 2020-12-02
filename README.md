@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fkafka-badge-endpoint-7m4kn6da3j8h.runkit.sh%2F"/>
 
 
-## Enthusiat about
+## Enthusiast about
 
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
