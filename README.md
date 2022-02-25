@@ -1,6 +1,7 @@
 ![banner](assets/gh-banner.jpg "Banner")
 ### Hi there 👋
 
+
 <!--
 **amitmisra16/amitmisra16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ## 🔭 These are some of my devlopment tools
 
@@ -81,3 +83,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amitmisra16%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
+
+<a href="https://app.daily.dev/amitmisra16"><img src="https://api.daily.dev/devcards/d3691cbf2f5245539daf4840999daf3d.png?r=a2j" width="400" alt="Amit Misra's Dev Card"/></a>
